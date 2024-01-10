@@ -1,0 +1,950 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LawGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 19:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: inc/lg-helper-functions.php:93
+#, php-format
+msgid "%1$s @ %2$s"
+msgstr ""
+
+#: inc/lg-redux-config.php:639 inc/lg-redux-config.php:713
+msgid "1 Column"
+msgstr ""
+
+#: inc/lg-redux-config.php:640 inc/lg-redux-config.php:714
+msgid "2 Columns"
+msgstr ""
+
+#: inc/lg-redux-config.php:641 inc/lg-redux-config.php:715
+msgid "3 Columns"
+msgstr ""
+
+#: inc/lg-redux-config.php:755
+msgid "404"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:84
+msgid "About Company"
+msgstr ""
+
+#: admin/welcome-page/welcome.php:180 admin/welcome-page/welcome.php:181
+msgid "Activate"
+msgstr ""
+
+#: admin/welcome-page/screens/themehurst-plugins.php:81
+msgid "Active:"
+msgstr ""
+
+#: inc/lg-redux-config.php:222 template-parts/content-single-attorney.php:130
+#: inc/widgets/contact-widget.php:114
+msgid "Address"
+msgstr ""
+
+#: inc/lg-redux-config.php:785
+msgid "Advanced"
+msgstr ""
+
+#: template-parts/content-banner.php:16
+msgid "All Posts"
+msgstr ""
+
+#: inc/lg-redux-config.php:329
+msgid "Ask For Quote Button Text"
+msgstr ""
+
+#: inc/lg-redux-config.php:336
+msgid "Ask For Quote Button URL"
+msgstr ""
+
+#: inc/lg-redux-config.php:319
+msgid "Ask For Quote Enable / Disable"
+msgstr ""
+
+#: inc/lg-redux-config.php:680
+msgid "Attorney Single"
+msgstr ""
+
+#: inc/lg-redux-config.php:117
+msgid "Back to Top Arrow"
+msgstr ""
+
+#: inc/lg-redux-config.php:536 inc/lg-redux-config.php:587
+msgid "Background Color"
+msgstr ""
+
+#: inc/lg-redux-config.php:537 inc/lg-redux-config.php:588
+msgid "Background Image"
+msgstr ""
+
+#: inc/lg-redux-config.php:517
+msgid "Banner"
+msgstr ""
+
+#: inc/lg-redux-config.php:554
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/lg-redux-config.php:545
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/lg-redux-config.php:534
+msgid "Banner Background Type"
+msgstr ""
+
+#: inc/lg-redux-config.php:570
+msgid "Banner Padding Bottom"
+msgstr ""
+
+#: inc/lg-redux-config.php:563
+msgid "Banner Padding Top"
+msgstr ""
+
+#: template-parts/content-single-attorney.php:38
+msgid "Biography of "
+msgstr ""
+
+#: inc/lg-redux-config.php:650
+msgid "Blog / Archive"
+msgstr ""
+
+#: inc/lg-redux-config.php:367
+msgid "Body"
+msgstr ""
+
+#: inc/lg-redux-config.php:754
+msgid "Body Text 1"
+msgstr ""
+
+#: inc/lg-redux-config.php:760
+msgid "Body Text 2"
+msgstr ""
+
+#: inc/lg-redux-config.php:766
+msgid "Body Text 3"
+msgstr ""
+
+#: inc/lg-redux-config.php:525
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/lg-tgm-config.php:56
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: inc/lg-redux-config.php:772
+msgid "Button Text"
+msgstr ""
+
+#: template-parts/content-single.php:17
+#: template-parts/content-single-practice.php:17
+#: inc/widgets/recent-posts-footer-widget.php:43
+msgid "By"
+msgstr ""
+
+#: inc/widgets/category-widget.php:39
+msgid "Categories"
+msgstr ""
+
+#: inc/lg-tgm-config.php:44
+msgid "CMB2"
+msgstr ""
+
+#: inc/lg-redux-config.php:637 inc/lg-redux-config.php:711
+msgid "Column Per Page"
+msgstr ""
+
+#: comments.php:15
+msgid "Comment"
+msgstr ""
+
+#: comments.php:69
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:12
+msgid "Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/widgets/contact-widget.php:85 inc/widgets/contact-widget.php:106
+msgid "Company Logo"
+msgstr ""
+
+#: inc/lg-tgm-config.php:62
+msgid "Contact Form 7"
+msgstr ""
+
+#: template-parts/content-single-attorney.php:111
+msgid "Contact Information"
+msgstr ""
+
+#: template-parts/content-single-attorney.php:136
+msgid "Contact Me"
+msgstr ""
+
+#: inc/lg-vc-settings.php:14
+msgid "Content Maximum Width"
+msgstr ""
+
+#: inc/lg-redux-config.php:510
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: inc/lg-redux-config.php:503
+msgid "Content Padding Top"
+msgstr ""
+
+#: inc/lg-redux-config.php:353
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/lg-redux-config.php:793
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/welcome-page/welcome.php:228 admin/welcome-page/welcome.php:229
+msgid "Deactivate"
+msgstr ""
+
+#: inc/lg-helper-functions.php:163
+msgid "Default"
+msgstr ""
+
+#: inc/lg-redux-config.php:125
+msgid "Default Button Style"
+msgstr ""
+
+#: inc/lg-redux-config.php:119 inc/lg-redux-config.php:215
+#: inc/lg-redux-config.php:313 inc/lg-redux-config.php:322
+#: inc/lg-redux-config.php:519 inc/lg-redux-config.php:527
+#: inc/lg-redux-config.php:579
+msgid "Disabled"
+msgstr ""
+
+#: inc/widgets/recent-posts-footer-widget.php:103
+#: inc/widgets/recent-posts-sidebar-widget.php:127
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/recent-posts-sidebar-widget.php:130
+msgid "Display post short details?"
+msgstr ""
+
+#: inc/widgets/recent-posts-sidebar-widget.php:124
+msgid "Display post thumbnail?"
+msgstr ""
+
+#: admin/welcome-page/screens/welcome.php:39
+#: admin/welcome-page/screens/welcome.php:41
+msgid "Documentation"
+msgstr ""
+
+#: template-parts/content-single-attorney.php:46
+msgid "Education"
+msgstr ""
+
+#: comments.php:60 inc/lg-redux-config.php:234
+#: template-parts/content-single-attorney.php:123
+#: inc/widgets/contact-widget.php:122
+msgid "Email"
+msgstr ""
+
+#: inc/lg-redux-config.php:118 inc/lg-redux-config.php:214
+#: inc/lg-redux-config.php:312 inc/lg-redux-config.php:321
+#: inc/lg-redux-config.php:518 inc/lg-redux-config.php:526
+#: inc/lg-redux-config.php:578
+msgid "Enabled"
+msgstr ""
+
+#: inc/lg-tgm-config.php:25
+msgid "Envato Market"
+msgstr ""
+
+#: inc/lg-redux-config.php:749
+msgid "Error 404"
+msgstr ""
+
+#: inc/lg-redux-config.php:736
+msgid "Error 404 Layout"
+msgstr ""
+
+#: inc/lg-redux-config.php:777
+msgid "Error Page Settings"
+msgstr ""
+
+#: inc/lg-redux-config.php:136
+msgid "Extra Large Rounded"
+msgstr ""
+
+#: inc/lg-redux-config.php:241 inc/widgets/contact-widget.php:130
+msgid "Facebook"
+msgstr ""
+
+#: inc/lg-redux-config.php:181
+msgid "Favicon"
+msgstr ""
+
+#: template-parts/content-single-attorney.php:117
+msgid "Fax"
+msgstr ""
+
+#: template-parts/content-single-attorney.php:145
+msgid "Follow"
+msgstr ""
+
+#: inc/lg-general.php:38 inc/lg-redux-config.php:345
+#: inc/lg-redux-config.php:577 inc/widgets/widget-settings.php:38
+msgid "Footer"
+msgstr ""
+
+#: inc/lg-redux-config.php:605
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/lg-redux-config.php:596
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/lg-redux-config.php:585
+msgid "Footer Background Type"
+msgstr ""
+
+#: inc/lg-redux-config.php:495
+msgid "Full Width"
+msgstr ""
+
+#: inc/lg-redux-config.php:95
+msgid "General"
+msgstr ""
+
+#: inc/lg-redux-config.php:773
+msgid "Go to Home Page"
+msgstr ""
+
+#: inc/lg-scripts.php:4
+msgctxt "Google fonts - Open Sans and Roboto : on or off"
+msgid "on"
+msgstr ""
+
+#: inc/lg-redux-config.php:164
+msgid "Header"
+msgstr ""
+
+#: inc/lg-redux-config.php:384
+msgid "Header h1"
+msgstr ""
+
+#: inc/lg-redux-config.php:401
+msgid "Header h2"
+msgstr ""
+
+#: inc/lg-redux-config.php:418
+msgid "Header h3"
+msgstr ""
+
+#: inc/lg-redux-config.php:435
+msgid "Header h4"
+msgstr ""
+
+#: inc/lg-redux-config.php:452
+msgid "Header h5"
+msgstr ""
+
+#: inc/lg-redux-config.php:469
+msgid "Header h6"
+msgstr ""
+
+#: inc/lg-redux-config.php:189
+msgid "Header Style"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:136
+msgid "Home URL"
+msgstr ""
+
+#: template-parts/content-single-attorney.php:86
+msgid "Honors and Awards"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.demo.themehurst.net/lawgit/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themehurst.net/"
+msgstr ""
+
+#: inc/lg-redux-config.php:207
+msgid "If you want to hide any field simply keep it empty"
+msgstr ""
+
+#: inc/lg-redux-config.php:271 inc/widgets/contact-widget.php:146
+msgid "Instagram"
+msgstr ""
+
+#: admin/welcome-page/welcome.php:133 admin/welcome-page/welcome.php:134
+msgid "Install"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:18
+#: admin/welcome-page/screens/themehurst-plugins.php:24
+#: admin/welcome-page/screens/welcome.php:20
+msgid ""
+"is now installed and ready to use. Get ready to build your site with more "
+"powerful WordPress theme. We hope you enjoy using it."
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/lg-redux-config.php:133
+msgid "Large Round"
+msgstr ""
+
+#: inc/lg-redux-config.php:128
+msgid "Large Rounded"
+msgstr ""
+
+#. Name of the theme
+#: admin/welcome-page/screens/system-status.php:69
+msgid "LawGit"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"LawGit - team presents absolutely fresh and powerful WordPress theme. It is "
+"fully responsive for all kind of devices like Desktop &amp; Mobile."
+msgstr ""
+
+#: inc/lg-tgm-config.php:7
+msgid "LawGit Core"
+msgstr ""
+
+#: inc/lg-redux-config.php:24 inc/lg-redux-config.php:25
+msgid "LawGit Options"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:58
+msgid "LawGit System Status"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/category-widget.php:6
+msgid "LawGit: Categories"
+msgstr ""
+
+#: inc/widgets/category-widget.php:7
+msgid "LawGit: Categories Widget"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:6
+msgid "LawGit: Contact Info"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:7
+msgid "LawGit: Contact Info Widget"
+msgstr ""
+
+#: inc/widgets/recent-posts-footer-widget.php:6
+msgid "LawGit: Footer Recent Post"
+msgstr ""
+
+#: inc/widgets/recent-posts-footer-widget.php:7
+msgid "LawGit: Footer Recent Post Widget"
+msgstr ""
+
+#: inc/widgets/recent-posts-sidebar-widget.php:6
+msgid "LawGit: Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts-sidebar-widget.php:7
+msgid "LawGit: Recent Posts Widget"
+msgstr ""
+
+#: inc/lg-redux-config.php:492
+msgid "Layout"
+msgstr ""
+
+#: inc/lg-redux-config.php:616
+msgid "Layout Defaults"
+msgstr ""
+
+#: inc/lg-redux-config.php:494
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/lg-redux-config.php:253 inc/widgets/contact-widget.php:138
+msgid "Linkedin"
+msgstr ""
+
+#: inc/lg-redux-config.php:172
+msgid "Logo"
+msgstr ""
+
+#: inc/lg-redux-config.php:279
+msgid "Main Menu"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:104
+msgid "max_execution_time"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:110
+msgid "max_input_vars"
+msgstr ""
+
+#: inc/lg-redux-config.php:295
+msgid "Menu Font"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:98
+msgid "MySQL"
+msgstr ""
+
+#: comments.php:57
+msgid "Name"
+msgstr ""
+
+#: comments.php:40
+msgid "Newer Comments"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:18
+#: admin/welcome-page/screens/themehurst-plugins.php:24
+#: admin/welcome-page/screens/welcome.php:20
+msgid "Nice!"
+msgstr ""
+
+#: inc/lg-helper-functions.php:156
+msgid "No contact forms found"
+msgstr ""
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/widgets/recent-posts-footer-widget.php:99
+#: inc/widgets/recent-posts-sidebar-widget.php:120
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/lg-redux-config.php:289
+msgid "Off"
+msgstr ""
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr ""
+
+#: inc/lg-redux-config.php:288
+msgid "On"
+msgstr ""
+
+#: admin/welcome-page/screens/welcome.php:40
+msgid ""
+"Our online documentation helps you to learn how to setup and customize your "
+"needs with LawGitLawGit. We will launch online documentation soon."
+msgstr ""
+
+#: inc/lg-redux-config.php:625
+msgid "Page"
+msgstr ""
+
+#: inc/lg-redux-config.php:761
+msgid "Page not Found"
+msgstr ""
+
+#: inc/lg-redux-config.php:748
+msgid "Page Title"
+msgstr ""
+
+#: inc/lg-redux-config.php:794
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/lg-redux-config.php:228 template-parts/content-single-attorney.php:116
+#: inc/widgets/contact-widget.php:118
+msgid "Phone"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:92
+msgid "PHP"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:81
+msgid "PHP Config"
+msgstr ""
+
+#: inc/lg-redux-config.php:265 inc/widgets/contact-widget.php:142
+msgid "Pinterest"
+msgstr ""
+
+#: admin/welcome-page/welcome.php:61 admin/welcome-page/welcome.php:62
+#: admin/welcome-page/screens/system-status.php:23
+#: admin/welcome-page/screens/themehurst-plugins.php:29
+#: admin/welcome-page/screens/welcome.php:25
+msgid "Plugins"
+msgstr ""
+
+#: inc/lg-redux-config.php:660
+msgid "Post Single"
+msgstr ""
+
+#: inc/widgets/recent-posts-footer-widget.php:82
+#: inc/widgets/recent-posts-sidebar-widget.php:103
+msgid "Post Type:"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:116
+msgid "post_max_size"
+msgstr ""
+
+#: template-parts/content-single-attorney.php:66
+msgid "Practice Areas"
+msgstr ""
+
+#: inc/lg-redux-config.php:700
+msgid "Practice Single"
+msgstr ""
+
+#: inc/lg-redux-config.php:153
+msgid "Preloader gif/svg"
+msgstr ""
+
+#: inc/lg-redux-config.php:146
+msgid "Preloader No"
+msgstr ""
+
+#: inc/lg-redux-config.php:143
+msgid "Preloader Status"
+msgstr ""
+
+#: inc/lg-redux-config.php:145
+msgid "Preloader Yes"
+msgstr ""
+
+#: inc/lg-general.php:37
+msgid "Primary"
+msgstr ""
+
+#: inc/lg-redux-config.php:104
+msgid "Primary Color"
+msgstr ""
+
+#: template-parts/content.php:22 template-parts/content-search.php:21
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/widgets/recent-posts-footer-widget.php:15
+#: inc/widgets/recent-posts-sidebar-widget.php:15
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/lg-tgm-config.php:50
+msgid "Redux Framework"
+msgstr ""
+
+#: template-parts/content-more-protfolio.php:8
+msgid "Related Projects"
+msgstr ""
+
+#: comments.php:30
+msgid "Reply"
+msgstr ""
+
+#: admin/welcome-page/screens/themehurst-plugins.php:100
+msgid "Required"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:106
+msgid "Required max_execution_time 300."
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:112
+msgid "Required max_input_vars 2000."
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:156
+msgid "Required memory limit 64M."
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:118
+msgid "Required post_max_size 10M."
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:142
+msgid "Required version 4.5. Recommended "
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:100
+msgid "Required version 5. Recommended 5.0 or greater."
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:94
+msgid "Required version 5.4.0. Recommended 5.6 or greater."
+msgstr ""
+
+#: inc/lg-tgm-config.php:34
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/lg-redux-config.php:496
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widgets/search-widget.php:6
+msgid "Search here ..."
+msgstr ""
+
+#: inc/lg-redux-config.php:311
+msgid "Search Icon"
+msgstr ""
+
+#: inc/lg-redux-config.php:724
+msgid "Search Layout"
+msgstr ""
+
+#: template-parts/content-banner.php:9
+msgid "Search Results for : "
+msgstr ""
+
+#: inc/lg-redux-config.php:111
+msgid "Secondery Color"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:87
+msgid "Server Software"
+msgstr ""
+
+#: template-parts/content-single.php:41
+#: template-parts/content-single-practice.php:38
+msgid "Share"
+msgstr ""
+
+#: inc/widgets/widget-settings.php:30
+msgid "Sidebar"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:132
+msgid "Site URL"
+msgstr ""
+
+#: inc/lg-redux-config.php:671 inc/lg-redux-config.php:691
+msgid "Slug"
+msgstr ""
+
+#: inc/lg-redux-config.php:131
+msgid "Small Round"
+msgstr ""
+
+#: inc/lg-redux-config.php:127
+msgid "Small Rounded"
+msgstr ""
+
+#: inc/lg-redux-config.php:134
+msgid "Small Rounded Two"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/lg-redux-config.php:287
+msgid "Sticky Menu"
+msgstr ""
+
+#: admin/welcome-page/screens/welcome.php:34
+#: admin/welcome-page/screens/welcome.php:36
+msgid "Submit A Ticket"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:22
+#: admin/welcome-page/screens/themehurst-plugins.php:28
+#: admin/welcome-page/screens/welcome.php:24
+msgid "Support"
+msgstr ""
+
+#: admin/welcome-page/welcome.php:69 admin/welcome-page/welcome.php:70
+#: admin/welcome-page/screens/system-status.php:24
+#: admin/welcome-page/screens/themehurst-plugins.php:30
+#: admin/welcome-page/screens/welcome.php:26
+msgid "System Status"
+msgstr ""
+
+#: template-parts/content-single.php:35
+#: template-parts/content-single-practice.php:32
+msgid "Tags"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:166
+#: admin/welcome-page/screens/themehurst-plugins.php:111
+#: admin/welcome-page/screens/welcome.php:49
+msgid "Thank you for choosing"
+msgstr ""
+
+#: inc/lg-redux-config.php:767
+msgid ""
+"The page you are looking is not available or has been removed. Try going to "
+"Home Page by using the button below."
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:63
+msgid "Theme Config"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:68
+msgid "Theme Name"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:72
+msgid "Theme Version"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeHurst"
+msgstr ""
+
+#: admin/welcome-page/screens/themehurst-plugins.php:36
+msgid ""
+"These are the plugins we recommended for LawGit. Currently themehurst Core, "
+"Visual Composer are required plugins that is needed to use in LawGit. You "
+"can activate, deactivate or update the plugins from this tab."
+msgstr ""
+
+#: inc/widgets/category-widget.php:45 inc/widgets/contact-widget.php:102
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/recent-posts-footer-widget.php:73
+#: inc/widgets/recent-posts-sidebar-widget.php:94
+msgid "Title:"
+msgstr ""
+
+#: inc/lg-redux-config.php:212
+msgid "Top Bar Enable / Disable"
+msgstr ""
+
+#: inc/lg-redux-config.php:205
+msgid "Top Bar Section"
+msgstr ""
+
+#: inc/lg-redux-config.php:247 inc/widgets/contact-widget.php:134
+msgid "Twitter"
+msgstr ""
+
+#: inc/lg-redux-config.php:360
+msgid "Typography"
+msgstr ""
+
+#: admin/welcome-page/welcome.php:161 admin/welcome-page/welcome.php:162
+#: admin/welcome-page/welcome.php:208 admin/welcome-page/welcome.php:209
+msgid "Update"
+msgstr ""
+
+#: admin/welcome-page/screens/themehurst-plugins.php:90
+msgid "Update Available: Version"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:110
+msgid "URL"
+msgstr ""
+
+#: admin/welcome-page/screens/welcome.php:35
+msgid ""
+"We would happy to help you solve any issues. If you have any questions, "
+"ideas or suggestions, please feel free to contact us."
+msgstr ""
+
+#: template-parts/content-single-attorney.php:124
+msgid "Website"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:15
+#: admin/welcome-page/screens/themehurst-plugins.php:21
+#: admin/welcome-page/screens/welcome.php:17
+msgid "Welcome to"
+msgstr ""
+
+#: inc/lg-redux-config.php:132
+msgid "White BG Large Round"
+msgstr ""
+
+#: inc/lg-redux-config.php:129
+msgid "White BG Large Rounded"
+msgstr ""
+
+#: inc/lg-redux-config.php:135
+msgid "White BG Large Rounded Two"
+msgstr ""
+
+#: inc/lg-redux-config.php:130
+msgid "White Simple"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:127
+msgid "WordPress Config"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:126
+msgid "Working Hours"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:150
+msgid "WP Language"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:154
+msgid "WP Memory Limit"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:146
+msgid "WP Multisite Status"
+msgstr ""
+
+#: admin/welcome-page/screens/system-status.php:140
+msgid "WP version"
+msgstr ""
+
+#: inc/lg-tgm-config.php:16
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: inc/lg-helper-functions.php:96
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/widgets/contact-widget.php:150
+msgid "YouTube"
+msgstr ""
+
+#: inc/lg-redux-config.php:259
+msgid "Youtube"
+msgstr ""
